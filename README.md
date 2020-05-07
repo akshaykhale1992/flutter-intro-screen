@@ -1,4 +1,4 @@
-# introscreens_app
+# A simple Introduction screen app which demonstrates Flutter Theming
 
 A new Flutter project.
 
